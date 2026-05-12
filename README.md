@@ -1,4 +1,3 @@
-````markdown
 # LTspice Tutorial Work
 
 A collection of LTspice simulation files, notes, and small circuit exercises completed while learning circuit simulation.
